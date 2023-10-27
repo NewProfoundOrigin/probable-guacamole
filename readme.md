@@ -42,7 +42,7 @@ There's also a [Yeoman generator](https://github.com/sindresorhus/generator-elec
 
 ## Install
 
-*macOS 10.13+, Linux, and Windows 7+ are supported (64-bit only).*
+_macOS 10.13+, Linux, and Windows 7+ are supported (64-bit only)._
 
 **macOS**
 
@@ -52,7 +52,7 @@ There's also a [Yeoman generator](https://github.com/sindresorhus/generator-elec
 
 [**Download**](https://github.com/user/repo/releases/latest) the `.AppImage` or `.deb` file.
 
-*The AppImage needs to be [made executable](http://discourse.appimage.org/t/how-to-make-an-appimage-executable/80) after download.*
+_The AppImage needs to be [made executable](http://discourse.appimage.org/t/how-to-make-an-appimage-executable/80) after download._
 
 **Windows**
 
