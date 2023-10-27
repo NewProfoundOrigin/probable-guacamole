@@ -10,15 +10,15 @@ body {
 	font-family:
 		system-ui,
 		-apple-system,
-		'Segoe UI',
+		"Segoe UI",
 		Roboto,
 		Helvetica,
 		Arial,
 		sans-serif,
-		'Apple Color Emoji',
-		'Segoe UI Emoji';
+		"Apple Color Emoji",
+		"Segoe UI Emoji";
 	text-rendering: optimizeLegibility;
-	font-feature-settings: 'liga', 'clig', 'kern';
+	font-feature-settings: "liga", "clig", "kern";
 }
 
 header {
